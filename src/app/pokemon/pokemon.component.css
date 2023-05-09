@@ -1,0 +1,28 @@
+.box{
+    background-color:#FF0000;
+    border-radius: 20px;
+    width: 600px;
+    height: 350px;
+    text-align: center;
+    font-size: 22px;
+    color: #FFFF;
+
+}
+
+.card-header{
+    background-color:#FF0000;    
+}
+
+.card{
+    border-color: black;
+}
+
+.btn{
+    background-color:#FF0000;
+    border-color: black;
+}
+
+h2{
+    color: #FFFF;
+}
+
